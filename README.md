@@ -12,7 +12,7 @@ A mildly chaotic portal connecting Lucas projects across games, AI, chess, schoo
 |---|---|---|
 | Lucasverse Hub | GitHub Pages target | https://lucasli1337unknown.github.io/LucasverseHub/ |
 | Blockbound Infinite | Public | https://blockbound-infinite.lucasli0608.chatgpt.site/ |
-| 流水宴 | Public GitHub Pages | https://lucasli1337unknown.github.io/LiuShuiYan/ |
+| 流水宴 | Public GitHub Pages | https://lucasli1337unknown.github.io/LiuShuiYan-LAGJJJJ/ |
 | Gitverse | Public · 🚧 in development | https://lucasli1337unknown.github.io/Gitverse/ |
 | Lucas Game Lab | Public | https://lucasgamelab.is-great.net/ |
 | Repository | Public | https://github.com/LucasLi1337Unknown/LucasverseHub |
