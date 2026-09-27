@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Lucasverse Hub</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <div>
+    <div class="eyebrow">LUCASVERSE // PROJECT NETWORK</div>
+    <h1>Lucasverse Hub</h1>
+    <p class="subtitle">One mildly chaotic doorway into games, AI experiments, school survival tools, chess engines and things that probably should not have been connected.</p>
+  </div>
+  <button id="settingsBtn" class="iconBtn" aria-label="Settings">⚙️</button>
+</header>
+
+<main>
+  <section class="hero card">
+    <div>
+      <span class="badge live">LIVE HUB</span>
+      <h2>Pick a universe. Or don't.</h2>
+      <p>Browse by category, launch a project, or let the randomizer throw you somewhere in the Lucasverse.</p>
+    </div>
+    <div class="heroActions">
+      <button id="randomBtn" class="primary">🎲 Send Me Somewhere Random</button>
+      <a class="secondary" href="https://github.com/LucasLi1337Unknown/LucasverseHub" target="_blank" rel="noopener">View Repository</a>
+    </div>
+  </section>
+
+  <section class="toolbar">
+    <input id="search" type="search" placeholder="Search projects...">
+    <div id="filters" class="filters"></div>
+  </section>
+
+  <section id="grid" class="grid"></section>
+</main>
+
+<div id="settingsPanel" class="settingsPanel" aria-hidden="true">
+  <div class="settingsHeader">
+    <h2>⚙️ Settings</h2>
+    <button id="closeSettings" class="iconBtn">✕</button>
+  </div>
+  <label class="settingRow">
+    <span>Dark mode</span>
+    <input id="darkMode" type="checkbox" checked>
+  </label>
+  <label class="settingRow">
+    <span>Open projects in new tab</span>
+    <input id="newTab" type="checkbox" checked>
+  </label>
+  <label class="settingRow">
+    <span>Animations</span>
+    <input id="animations" type="checkbox" checked>
+  </label>
+  <label class="settingRow">
+    <span>Compact cards</span>
+    <input id="compact" type="checkbox">
+  </label>
+  <button id="resetSettings" class="secondary full">Reset settings</button>
+</div>
+<div id="backdrop" class="backdrop"></div>
+
+<footer>
+  <p>Built as a map of the Lucasverse. There is no guarantee every project makes sense.</p>
+  <p class="tiny">Lucasverse Hub · GitHub Pages</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
