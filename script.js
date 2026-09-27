@@ -6,7 +6,7 @@ const projects=[
 {name:"Lucas Chaos Lab",emoji:"🧪",category:"Experiments",status:"live",desc:"Chess disasters, math warnings, RoadEye alarms and buttons that should probably not be pressed.",url:"https://lucasverse-chaos-lab.lucasli0608.chatgpt.site/"},
 {name:"Lutaw Professors Academy",emoji:"🧙",category:"Language",status:"live",desc:"Ancient professors discussing absurdly advanced science in Lutaw.",url:"https://lutaw-professors-academy.lucasli0608.chatgpt.site/"},
 {name:"MathCareful",emoji:"📐",category:"School",status:"live",desc:"Math practice built to catch tiny mistakes before they cause civilization-ending damage.",url:"#"},
-{name:"流水宴",emoji:"🍽️",category:"School",status:"live",desc:"Chinese-class banquet project with menu, images and reservation interactions.",url:"https://lucasli1337unknown.github.io/LiuShuiYan/"},
+{name:"流水宴",emoji:"🍽️",category:"School",status:"live",desc:"Chinese-class banquet project with menu, images and reservation interactions.",url:"https://lucasli1337unknown.github.io/LiuShuiYan-LAGJJJJ/"},
 {name:"StockFishBattle",emoji:"♟️",category:"Chess",status:"live",desc:"Stockfish versus Stockfish. Human spectators may experience emotional damage.",url:"https://lucasli1337unknown.github.io/StockFishBattle/"},
 {name:"Test002Stockfish",emoji:"🐟",category:"Chess",status:"live",desc:"A browser Stockfish playground and one of the earlier Lucas chess experiments.",url:"https://lucasli1337unknown.github.io/Test002Stockfish/"},
 {name:"Gitverse",emoji:"🛠️",category:"Archive",status:"dev",desc:"A growing GitHub project universe. Very real repo. Very unfinished.",url:"https://github.com/LucasLi1337Unknown/Gitverse"},
